@@ -18,7 +18,7 @@
 
 ### ✔️ UIRefreshControl로 서버 데이터 refetch 기능
 
-`UICollectionView`의 멤버인 `UIRefreshControl`로 UI를 구현한다.
+`UIRefreshControl`로 위로 당기면 activity indicator가 보여지는 UI를 구현한다.
 
 ```swift
 
