@@ -1,7 +1,7 @@
 # SubwayStation
 
 ![Simulator Screen Recording - iPod touch (7th generation) - 2023-02-20 at 19 31 35](https://user-images.githubusercontent.com/42196410/220082179-167f5f78-5414-4004-a073-754e47c790d3.gif)
-![Simulator Screen Recording - iPod touch (7th generation) - 2023-02-20 at 19 49 22](https://user-images.githubusercontent.com/42196410/220084666-9a07530e-2387-4a98-b389-295bfd878377.gif)
+
 
 
 
@@ -19,6 +19,8 @@
 ### ✔️ UIRefreshControl로 서버 데이터 refetch 기능
 
 `UIRefreshControl`로 위로 당기면 activity indicator가 보여지는 UI를 구현한다.
+
+![Simulator Screen Recording - iPod touch (7th generation) - 2023-02-20 at 19 49 22](https://user-images.githubusercontent.com/42196410/220084666-9a07530e-2387-4a98-b389-295bfd878377.gif)
 
 ```swift
 
